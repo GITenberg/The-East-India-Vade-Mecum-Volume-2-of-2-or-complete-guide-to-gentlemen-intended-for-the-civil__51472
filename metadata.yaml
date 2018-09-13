@@ -1,5 +1,8 @@
 _repo: The-East-India-Vade-Mecum-Volume-2-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil__51472
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51472-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, Thomas
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46426'
     url: http://www.gutenberg.org/2009/agents/46426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51472#The-East-India-Vade-Mecum-Volume-2-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil_
 gutenberg_issued: '2016-03-16'
 gutenberg_type: Text
 identifiers:
