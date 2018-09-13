@@ -1,0 +1,28 @@
+_repo: The-East-India-Vade-Mecum-Volume-2-of-2-or-complete-guide-to-gentlemen-intended-for-the-civil__51472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, Thomas
+    aliases:
+    - Williamson, T. (Thomas)
+    - Williamson, T. G. (Thomas George)
+    birthdate: 1758
+    deathdate: 1817
+    gutenberg_agent_id: '46426'
+    url: http://www.gutenberg.org/2009/agents/46426
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs -- 19th century -- Handbooks, manuals, etc.'
+- !lcc 'DS'
+- GITenberg
+title: "The East India Vade-Mecum, Volume 2 (of 2)\r\nor, complete guide to gentlemen\
+  \ intended for the civil, military, or naval service of the East India Company."
+url: http://www.gutenberg.org/ebooks/51472
